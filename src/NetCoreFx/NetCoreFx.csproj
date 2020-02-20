@@ -5,6 +5,14 @@
     <Nullable>enable</Nullable>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <WarningsAsErrors />
+    <PackageId>NetCoreFx</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Douglas Minnaar</Authors>
+    <Company>Douglas Minnaar</Company>
+    <Description>A library of .Net Core framework extensions</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>utilities,extensions</PackageTags>
+    <RepositoryUrl>https://github.com/drminnaar/netcorefx</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="8.6.1" />
