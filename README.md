@@ -6,6 +6,14 @@ As a result of creating a number of .Net Core projects on Github, a common proje
 
 ---
 
+## Nuget
+
+This library can be found on [Nuget](https://www.nuget.org/packages/NetCoreFx/0.0.1)
+
+- https://www.nuget.org/packages/NetCoreFx/0.0.1
+
+---
+
 ## Versioning
 
 I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/drminnaar/netcorefx/tags).
